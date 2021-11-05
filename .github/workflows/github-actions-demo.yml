@@ -22,4 +22,3 @@ jobs:
     - run: echo 'start'
     - run: pip install hypothesis
     - run: pip install sympy
-   # - run: python -m unittest discover
