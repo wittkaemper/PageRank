@@ -20,5 +20,3 @@ jobs:
 
     - name: Run tests
     - run: echo 'start'
-    - run: pip install hypothesis
-    - run: pip install sympy
