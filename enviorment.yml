@@ -1,7 +1,7 @@
 # run: conda env create --file environment.yml
 name: test-env
 dependencies:
-- python>=3.5
+- python>=3.8
 - anaconda
 - pip
 - numpy=1.13.3  # pin version for conda
